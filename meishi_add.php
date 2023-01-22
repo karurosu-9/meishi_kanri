@@ -18,8 +18,8 @@
     <form action="meishi_add_check.php" method="post">
         <table>
             <tr>
-                <td>お名前</td>
-                <td><input type="text" name="name" style="width:200px"></td>
+                <td>会社名</td>
+                <td><input type="text" name="corp" style="width:200px"></td>
             </tr>
             <tr>
                 <td>役職</td>
